@@ -1,0 +1,11 @@
+{
+  "name": "Beep Studio",
+  "version": "1.2",
+  "author": "RokasButnorius",
+  "description": "Beep Studio Is A 90s Style Beep Music Maker App",
+  "icon": "https://raw.githubusercontent.com/RokasButnorius/Beep-Studio-Mine-Os-OpenComputers-/main/icon.pic",
+  "files": {
+    "main.lua": "/Users/Shared/Applications/BeepStudio.app/main.lua",
+    "icon.pic": "/Users/Shared/Applications/BeepStudio.app/icon.pic"
+  }
+}
